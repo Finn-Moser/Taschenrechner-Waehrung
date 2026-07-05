@@ -44,7 +44,7 @@ Ausgabe:
 
 ## Technische Umsetzung
 
-Ich habe die Programmiersprache Python und TKinter verwendet.
+Ich habe die Programmiersprache Python und TKinter verwendet. 
 
 ## Benutzeroberfläche
 
