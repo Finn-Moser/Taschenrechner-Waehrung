@@ -46,17 +46,6 @@ Ausgabe:
 
 Ich habe die Programmiersprache Python und TKinter verwendet. 
 
-## Benutzeroberfläche
-
-### Eingabemaske
-
-![Währungsrechner Eingabe](Screenshot%202026-03-01%20154859.png)
-
-### Beispiel einer Berechnung
-
-![Währungsrechner Resultat](Screenshot%202026-03-01%20154926.png)
-
-## Projektinformationen
 
 **Finn Moser**  
 Goldschmiedstrasse 12  
